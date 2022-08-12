@@ -8,3 +8,31 @@
 .GetStartWrapper {
     background-color: #999999;
 }
+.Hides {
+    display: none;
+}
+.grids {
+    margin-top: 0px;
+    margin-left: 0px;
+    float: left;
+    height: 3.0303030303vh;
+    width: 3.0303030303vh;
+}
+.forestGrid {
+    background-color: green;
+}
+.caveGrid {
+    background-color: grey;
+}
+.grassGrid {
+    background-color: greenyellow;
+}
+.black {
+    background-color: black;
+}
+.rows {
+    margin-top: 0px;
+    margin-left: 0px;
+    height: 3.030303030303vh;
+    width: 100vh
+}

@@ -1,1 +1,1 @@
-initPage();
+setTimeout(Init, 10);
